@@ -1,0 +1,11 @@
+# Només es publica la web final; la resta (originals, Blender, versió antiga) queda en local
+/*
+!/.gitignore
+!/index.html
+!/style.css
+!/main.js
+!/foto/
+!/video/
+/video/*
+!/video/taller.mp4
+!/video/mx.mp4
